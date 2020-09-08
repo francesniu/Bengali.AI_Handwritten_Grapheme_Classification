@@ -4,7 +4,7 @@
 ***Group Member: [Guansu Niu](https://github.com/francesniu), [Shiqi Lei](https://github.com/beckyleii), [Tongxin Wang](https://github.com/tongxinw)***
 
 
-*[Project Posts] (https://tongxinw.github.io/bengali.ai/)*
+*Project Posts(https://tongxinw.github.io/bengali.ai/)*
 
 
 ### Project Motivation & Goal
